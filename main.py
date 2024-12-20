@@ -69,7 +69,6 @@ def load(s):
             else:
                 elements = []
                 list(map(lambda x: elements.append(x) if x !="" and x != "=" else None, line.replace("\'","").split(" ")))
-                print(elements)
                 if(len(elements) > 1):
                     if(elements[0] == "var"):
                         const[parse_name(elements[1])] = type(f'{elements[2]}')
