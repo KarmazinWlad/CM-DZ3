@@ -42,7 +42,7 @@ var имя = значение
 ![image](https://github.com/user-attachments/assets/eec3f8b1-97b6-4af8-8f2f-403e96d7cda3)
 
 Изначальный файл
-![image](https://github.com/user-attachments/assets/7dbdcf61-2418-46db-b83a-2b36a6e3cf5d)
+![image](https://github.com/user-attachments/assets/1f46e981-1127-4e5a-a3e9-edacee2c443b)
 Итог
 ![image](https://github.com/user-attachments/assets/73f73782-fe17-459c-94f1-0a27045937ae)
 
