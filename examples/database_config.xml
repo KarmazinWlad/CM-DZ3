@@ -1,0 +1,9 @@
+<configuration>
+    var Pi = 3.14
+    <variable name="host" value='@"localhost"'/>
+    <variable name="port" value="5432"/>
+    <variable name="database" value='@"myapp"'/>
+    <variable name="user" value='@"admin"'/>
+    <variable name="poolSize" value="![Pi]"/>
+    <variable name="tables" value='({@"users", @"products", @"orders"})'/>
+</configuration>
