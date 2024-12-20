@@ -37,9 +37,9 @@ var имя = значение
 ![image](https://github.com/user-attachments/assets/1079c98f-c9ad-4157-84dd-0437a41cfb5f)
 
 Изначальный файл
-![image](https://github.com/user-attachments/assets/e7e31db2-ce16-4359-a73d-0d192e1f63f6)
-Итог
 ![image](https://github.com/user-attachments/assets/eec3f8b1-97b6-4af8-8f2f-403e96d7cda3)
+Итог
+![image](https://github.com/user-attachments/assets/e7e31db2-ce16-4359-a73d-0d192e1f63f6)
 
 Изначальный файл
 ![image](https://github.com/user-attachments/assets/1f46e981-1127-4e5a-a3e9-edacee2c443b)
