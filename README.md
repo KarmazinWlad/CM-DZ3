@@ -44,7 +44,8 @@ var имя = значение
 Изначальный файл
 ![image](https://github.com/user-attachments/assets/7dbdcf61-2418-46db-b83a-2b36a6e3cf5d)
 Итог
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/73f73782-fe17-459c-94f1-0a27045937ae)
+
 
 
 Тестирование Программы 
